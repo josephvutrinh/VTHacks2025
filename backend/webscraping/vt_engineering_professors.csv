@@ -1,0 +1,578 @@
+legacyId,id,firstName,lastName,department,school_legacyId,school_name,school_city,school_state,avgRating,avgDifficulty,numRatings,wouldTakeAgainPercent
+2049285,VGVhY2hlci0yMDQ5Mjg1,Margaret,Ellis,Computer Science,1349,Virginia Tech,Blacksburg,VA,2,3.3,36,34.2857
+2562075,VGVhY2hlci0yNTYyMDc1,Catherine,Twyman,Engineering,1349,Virginia Tech,Blacksburg,VA,3.8,1.9,33,72.7273
+2976458,VGVhY2hlci0yOTc2NDU4,Justin,Dubik,Engineering,1349,Virginia Tech,Blacksburg,VA,5,3,2,100
+2758171,VGVhY2hlci0yNzU4MTcx,Kathleen,Carper,Engineering,1349,Virginia Tech,Blacksburg,VA,2.9,3.6,8,37.5
+2453636,VGVhY2hlci0yNDUzNjM2,John,Lewis,Computer Science,1349,Virginia Tech,Blacksburg,VA,4.1,2.6,59,84.7458
+2734868,VGVhY2hlci0yNzM0ODY4,Yue,Wang,Electrical & Computer Engineering,1349,Virginia Tech,Blacksburg,VA,3,3.5,2,50
+3100478,VGVhY2hlci0zMTAwNDc4,Dan,Williams,Computer Science,1349,Virginia Tech,Blacksburg,VA,3.5,4,2,100
+3070954,VGVhY2hlci0zMDcwOTU0,Joshua,Sole,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,4,2.5,8,87.5
+2742795,VGVhY2hlci0yNzQyNzk1,Ravi,Raghunathan,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,1,5,2,0
+2694993,VGVhY2hlci0yNjk0OTkz,Scott,Dunning,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,4.9,2.8,30,100
+1923419,VGVhY2hlci0xOTIzNDE5,Michael,Hsiao,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,3.9,2.4,8,83.3333
+2102814,VGVhY2hlci0yMTAyODE0,Jared,Gragg,Engineering,1349,Virginia Tech,Blacksburg,VA,3.3,3.5,28,66.6667
+1231425,VGVhY2hlci0xMjMxNDI1,Osman,Balci,Computer Science,1349,Virginia Tech,Blacksburg,VA,2.1,3.8,21,21.0526
+3104955,VGVhY2hlci0zMTA0OTU1,Sehrish,Nizamani,Computer Science,1349,Virginia Tech,Blacksburg,VA,4,2,2,100
+2331667,VGVhY2hlci0yMzMxNjY3,Benjamin,Chambers,Engineering,1349,Virginia Tech,Blacksburg,VA,4.8,2.1,29,93.1034
+2728808,VGVhY2hlci0yNzI4ODA4,Siwei,Cao,Computer Science,1349,Virginia Tech,Blacksburg,VA,2.1,2.8,17,23.5294
+2853293,VGVhY2hlci0yODUzMjkz,Cassie,Wallwey,Engineering,1349,Virginia Tech,Blacksburg,VA,4.9,1.8,38,97.3684
+1170376,VGVhY2hlci0xMTcwMzc2,Kristie,Cooper,Engineering,1349,Virginia Tech,Blacksburg,VA,3,4.3,74,50.7692
+2087242,VGVhY2hlci0yMDg3MjQy,Majid ,Manteghi,Engineering,1349,Virginia Tech,Blacksburg,VA,3.6,4,20,65
+2928681,VGVhY2hlci0yOTI4Njgx,Steve,Rowson,Engineering,1349,Virginia Tech,Blacksburg,VA,5,1.1,25,100
+1377980,VGVhY2hlci0xMzc3OTgw,Khai,Ngo,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,1.2,4.5,23,4.3478
+2642486,VGVhY2hlci0yNjQyNDg2,Juan,Ortega Alvarez,Engineering,1349,Virginia Tech,Blacksburg,VA,4.8,1.9,21,100
+1159158,VGVhY2hlci0xMTU5MTU4,Jeff,Bolton,Engineering,1349,Virginia Tech,Blacksburg,VA,4.8,3.5,39,96.875
+2182249,VGVhY2hlci0yMTgyMjQ5,Sneha,Davison,Engineering,1349,Virginia Tech,Blacksburg,VA,4.9,3.3,31,96.7742
+3101993,VGVhY2hlci0zMTAxOTkz,Behzah,Hamedi,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,3.5,2.5,2,50
+3090938,VGVhY2hlci0zMDkwOTM4,Saadbin,Khan,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,5,2,1,100
+2570801,VGVhY2hlci0yNTcwODAx,Scot,Ransbottom,Engineering,1349,Virginia Tech,Blacksburg,VA,1.9,2.7,9,11.1111
+2689778,VGVhY2hlci0yNjg5Nzc4,Mary,Lanzerotti,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,4.5,3.1,15,93.3333
+991424,VGVhY2hlci05OTE0MjQ=,C.L.,Wyatt,Engineering,1349,Virginia Tech,Blacksburg,VA,2.8,4.5,17,46.6667
+1652302,VGVhY2hlci0xNjUyMzAy,Richard,Clark,Engineering,1349,Virginia Tech,Blacksburg,VA,3.4,3.9,44,64.4444
+2909367,VGVhY2hlci0yOTA5MzY3,Tessema,Mengistu,Computer Science,1349,Virginia Tech,Blacksburg,VA,1.3,3,4,0
+2447994,VGVhY2hlci0yNDQ3OTk0,Arthur,Ball,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,4.2,3.4,51,88.2353
+960077,VGVhY2hlci05NjAwNzc=,David,McPherson,Computer Science,1349,Virginia Tech,Blacksburg,VA,4.5,2.9,42,91.4286
+3069059,VGVhY2hlci0zMDY5MDU5,Hulya,Dogan,Engineering,1349,Virginia Tech,Blacksburg,VA,4.5,2,2,100
+539315,VGVhY2hlci01MzkzMTU=,Jenny,Lo,Engineering,1349,Virginia Tech,Blacksburg,VA,4.7,1.9,54,100
+1160661,VGVhY2hlci0xMTYwNjYx,Leyla,Nazhandali,Electrical & Computer Engineering,1349,Virginia Tech,Blacksburg,VA,4.3,2.8,12,81.8182
+2256804,VGVhY2hlci0yMjU2ODA0,Claire,White,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,3.8,2.6,10,70
+2335156,VGVhY2hlci0yMzM1MTU2,Kevin,Young,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,4.8,2.7,9,100
+2697113,VGVhY2hlci0yNjk3MTEz,Paolo,Scardina,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,3.2,4.7,9,55.5556
+2355398,VGVhY2hlci0yMzU1Mzk4,Stephen,Edwards,Computer Science,1349,Virginia Tech,Blacksburg,VA,2,4.4,27,29.6296
+2632212,VGVhY2hlci0yNjMyMjEy,Sevak,Tahmasian,Engineering,1349,Virginia Tech,Blacksburg,VA,3.6,3.8,29,68.9655
+1490396,VGVhY2hlci0xNDkwMzk2,Yong,Xu,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,1.6,4.5,24,4.3478
+2533679,VGVhY2hlci0yNTMzNjc5,Shuxiang,Yu,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,3.3,3.5,15,80
+2873593,VGVhY2hlci0yODczNTkz,Kereshmeh,Afsari,Building Construction,1349,Virginia Tech,Blacksburg,VA,3.1,3.1,15,53.3333
+2138786,VGVhY2hlci0yMTM4Nzg2,Hodjat,Pendar,Engineering,1349,Virginia Tech,Blacksburg,VA,3.6,4,36,63.8889
+2861248,VGVhY2hlci0yODYxMjQ4,Heath,Hillman,Computer Science,1349,Virginia Tech,Blacksburg,VA,2.7,3.4,53,41.5094
+152760,VGVhY2hlci0xNTI3NjA=,Stefan,Duma,Engineering,1349,Virginia Tech,Blacksburg,VA,4.9,1.4,37,100
+2774058,VGVhY2hlci0yNzc0MDU4,Tameka,Douglas,Engineering,1349,Virginia Tech,Blacksburg,VA,4.3,1.5,10,90
+2925170,VGVhY2hlci0yOTI1MTcw,Michael ,Hicks,Engineering,1349,Virginia Tech,Blacksburg,VA,4.8,2.5,4,100
+2328457,VGVhY2hlci0yMzI4NDU3,Matthew,James,Engineering,1349,Virginia Tech,Blacksburg,VA,4.9,2,48,97.9167
+2049281,VGVhY2hlci0yMDQ5Mjgx,Natalie,Van Tyne,Engineering,1349,Virginia Tech,Blacksburg,VA,2.5,2.7,35,35.2941
+2739453,VGVhY2hlci0yNzM5NDUz,Patrick,Sullivan,Computer Science,1349,Virginia Tech,Blacksburg,VA,2.6,3.6,35,42.8571
+2785358,VGVhY2hlci0yNzg1MzU4,William,Baumann,Electrical & Computer Engineering,1349,Virginia Tech,Blacksburg,VA,4.6,3.8,5,100
+2667471,VGVhY2hlci0yNjY3NDcx,Michael,Madigan,Engineering,1349,Virginia Tech,Blacksburg,VA,3.2,4.4,5,60
+2896360,VGVhY2hlci0yODk2MzYw,Alkan,Soysal,Engineering,1349,Virginia Tech,Blacksburg,VA,3.2,3,10,60
+2926227,VGVhY2hlci0yOTI2MjI3,Hosein,Foroutan,Engineering,1349,Virginia Tech,Blacksburg,VA,4.6,3.6,5,80
+2794279,VGVhY2hlci0yNzk0Mjc5,Allyson,Senger,Computer Science,1349,Virginia Tech,Blacksburg,VA,3.7,3.5,14,71.4286
+2934775,VGVhY2hlci0yOTM0Nzc1,Kevin,Shinpaugh,Engineering,1349,Virginia Tech,Blacksburg,VA,2.2,3.6,13,23.0769
+994982,VGVhY2hlci05OTQ5ODI=,Montasir,Abbas,Engineering,1349,Virginia Tech,Blacksburg,VA,2.9,3.6,7,0
+3018543,VGVhY2hlci0zMDE4NTQz,Nikitha,Chandrasheka,Computer Science,1349,Virginia Tech,Blacksburg,VA,2.6,2.6,5,20
+2696804,VGVhY2hlci0yNjk2ODA0,Erdogan,Kiran,Chemical Engineering,1349,Virginia Tech,Blacksburg,VA,2.3,3,3,33.3333
+3101315,VGVhY2hlci0zMTAxMzE1,Christopher,McDowell,Chemical Engineering,1349,Virginia Tech,Blacksburg,VA,3,3.5,2,50
+2504493,VGVhY2hlci0yNTA0NDkz,Bilel,Aidi,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,2.9,3,10,60
+2926984,VGVhY2hlci0yOTI2OTg0,Bahareh,Behkam,Engineering,1349,Virginia Tech,Blacksburg,VA,3.5,4.2,6,83.3333
+3063770,VGVhY2hlci0zMDYzNzcw,Ben,Davoudi,Engineering,1349,Virginia Tech,Blacksburg,VA,2.8,3.3,6,66.6667
+2232714,VGVhY2hlci0yMjMyNzE0,Chris,Galitz,Engineering,1349,Virginia Tech,Blacksburg,VA,4.1,3.4,35,80
+271462,VGVhY2hlci0yNzE0NjI=,Jason,Thweatt,Engineering,1349,Virginia Tech,Blacksburg,VA,4.3,3.3,22,81.8182
+2807164,VGVhY2hlci0yODA3MTY0,Jiangtao,Cheng,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,1.1,4.8,11,9.0909
+2664211,VGVhY2hlci0yNjY0MjEx,Sohan,Kale,Engineering,1349,Virginia Tech,Blacksburg,VA,4.4,3.2,5,100
+3102339,VGVhY2hlci0zMTAyMzM5,Sami ,Hasnine,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,2,2,1,0
+2901371,VGVhY2hlci0yOTAxMzcx,Matt,Nowinski,Engineering,1349,Virginia Tech,Blacksburg,VA,3.4,3.6,59,62.7119
+2774499,VGVhY2hlci0yNzc0NDk5,Joseph,Baker,Electrical amp Computer Engineering,1349,Virginia Tech,Blacksburg,VA,3.3,3.8,4,50
+2962158,VGVhY2hlci0yOTYyMTU4,Suneel,Kodambaka,Engineering,1349,Virginia Tech,Blacksburg,VA,2.1,4.4,8,25
+3057728,VGVhY2hlci0zMDU3NzI4,Laura,Morillo,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,4.7,1.7,3,100
+2657788,VGVhY2hlci0yNjU3Nzg4,Mohammed,Farghally,Computer Science,1349,Virginia Tech,Blacksburg,VA,4.8,2.8,10,100
+2266467,VGVhY2hlci0yMjY2NDY3,Gary,Seidel,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,3.9,3.7,9,66.6667
+2460260,VGVhY2hlci0yNDYwMjYw,David,Gray,Engineering,1349,Virginia Tech,Blacksburg,VA,4.9,2.1,39,100
+1038952,VGVhY2hlci0xMDM4OTUy,Andrew,Kurdila,Engineering,1349,Virginia Tech,Blacksburg,VA,2.2,3.6,23,21.0526
+2933323,VGVhY2hlci0yOTMzMzIz,Bart,Raeymaekers,Engineering,1349,Virginia Tech,Blacksburg,VA,2.6,4.4,11,27.2727
+2411887,VGVhY2hlci0yNDExODg3,Darren,Maczka,Engineering,1349,Virginia Tech,Blacksburg,VA,4.3,3,9,88.8889
+2744658,VGVhY2hlci0yNzQ0NjU4,Charles,Smith,Engineering,1349,Virginia Tech,Blacksburg,VA,2.5,4.4,15,40
+3087876,VGVhY2hlci0zMDg3ODc2,Eric,Komendera,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,5,3,2,100
+1597637,VGVhY2hlci0xNTk3NjM3,Mehdi,Setareh,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,3.7,3.3,24,60.8696
+2628166,VGVhY2hlci0yNjI4MTY2,Amrinder,Nain,Engineering,1349,Virginia Tech,Blacksburg,VA,2.3,4.9,14,35.7143
+2738354,VGVhY2hlci0yNzM4MzU0,Virgilio,Centeno,Electrical & Computer Engineering,1349,Virginia Tech,Blacksburg,VA,2.9,4.2,11,45.4545
+2467651,VGVhY2hlci0yNDY3NjUx,Michael,von Spakovsky,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,1.7,4.7,14,21.4286
+3014910,VGVhY2hlci0zMDE0OTEw,Ashley,Taylor,Engineering,1349,Virginia Tech,Blacksburg,VA,5,2.3,3,100
+2967913,VGVhY2hlci0yOTY3OTEz,Tyler,Milburn,Electrical & Computer Engineering,1349,Virginia Tech,Blacksburg,VA,4.9,3.1,7,100
+2851218,VGVhY2hlci0yODUxMjE4,Sally,Hamouda,Computer Science,1349,Virginia Tech,Blacksburg,VA,5,1.9,7,100
+3012314,VGVhY2hlci0zMDEyMzE0,Ashtarout,Ammar,Engineering,1349,Virginia Tech,Blacksburg,VA,4.3,2.5,4,75
+3011006,VGVhY2hlci0zMDExMDA2,Lu,Zhang,Engineering,1349,Virginia Tech,Blacksburg,VA,4.3,1.7,3,100
+2934543,VGVhY2hlci0yOTM0NTQz,Jingqiu ,Liao,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,3.3,2.7,3,66.6667
+2016762,VGVhY2hlci0yMDE2NzYy,James,Lord,Engineering,1349,Virginia Tech,Blacksburg,VA,4.7,3,23,95.4545
+2615569,VGVhY2hlci0yNjE1NTY5,Shima,Shahab,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,4,2.2,6,83.3333
+2655178,VGVhY2hlci0yNjU1MTc4,Farrokh,Jazizadeh,Computer Science,1349,Virginia Tech,Blacksburg,VA,4.3,2.5,4,75
+2656559,VGVhY2hlci0yNjU2NTU5,Robert,West,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,3,4.3,4,50
+2555262,VGVhY2hlci0yNTU1MjYy,Jennifer,Benning,Engineering,1349,Virginia Tech,Blacksburg,VA,2.4,2.3,32,37.5
+1231423,VGVhY2hlci0xMjMxNDIz,Yang,Cao,Computer Science,1349,Virginia Tech,Blacksburg,VA,1.8,4.6,14,16.6667
+2471820,VGVhY2hlci0yNDcxODIw,Gregory,Kulczycki,Computer Science,1349,Virginia Tech,Blacksburg,VA,2.9,3.3,8,37.5
+2904479,VGVhY2hlci0yOTA0NDc5,Caroline,Branscome,Engineering,1349,Virginia Tech,Blacksburg,VA,1,2.5,2,0
+2216865,VGVhY2hlci0yMjE2ODY1,Pat,Artis,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,3.7,3.9,10,70
+2703547,VGVhY2hlci0yNzAzNTQ3,Wei,Zhou,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,3,3,3,33.3333
+3090252,VGVhY2hlci0zMDkwMjUy,Dylan,Losey,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,5,3,1,100
+2959969,VGVhY2hlci0yOTU5OTY5,Nazila,Roofigari,Building Construction,1349,Virginia Tech,Blacksburg,VA,3,2,2,50
+2406339,VGVhY2hlci0yNDA2MzM5,Kaveh,Hamed,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,3,3.3,3,33.3333
+2756052,VGVhY2hlci0yNzU2MDUy,Ryan,Gerdes,Electrical & Computer Engineering,1349,Virginia Tech,Blacksburg,VA,1.3,4.7,9,11.1111
+2959972,VGVhY2hlci0yOTU5OTcy,Jie,Song,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,3,1.7,3,66.6667
+2664194,VGVhY2hlci0yNjY0MTk0,Jonathan,Boreyko,Engineering,1349,Virginia Tech,Blacksburg,VA,5,3.4,5,100
+2866120,VGVhY2hlci0yODY2MTIw,Ella,Atkins,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,1.7,4,10,10
+2761235,VGVhY2hlci0yNzYxMjM1,John,Ferris,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,4.2,2.7,6,83.3333
+642399,VGVhY2hlci02NDIzOTk=,Scott,Case,Engineering,1349,Virginia Tech,Blacksburg,VA,4.8,3.3,4,100
+2927314,VGVhY2hlci0yOTI3MzE0,Elham,Mohammadrezaei,Computer Science,1349,Virginia Tech,Blacksburg,VA,1.5,4,6,16.6667
+2671566,VGVhY2hlci0yNjcxNTY2,Scott,Huxtable,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,4.3,3.2,6,83.3333
+3036552,VGVhY2hlci0zMDM2NTUy,Adam,Phillips,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,4,3,1,100
+2779797,VGVhY2hlci0yNzc5Nzk3,Shaddi,Hasan,Computer Science,1349,Virginia Tech,Blacksburg,VA,5,2.3,3,100
+2618148,VGVhY2hlci0yNjE4MTQ4,Bob,Edmison,Computer Science,1349,Virginia Tech,Blacksburg,VA,3.3,2.7,3,66.6667
+133462,VGVhY2hlci0xMzM0NjI=,Roger,Chang,Engineering,1349,Virginia Tech,Blacksburg,VA,5,2.8,85,100
+2726814,VGVhY2hlci0yNzI2ODE0,Debswapna,Bhattacharya,Computer Science,1349,Virginia Tech,Blacksburg,VA,4,2.5,2,100
+646611,VGVhY2hlci02NDY2MTE=,Steven,Edwards,Computer Science,1349,Virginia Tech,Blacksburg,VA,1.8,4,14,0
+3074763,VGVhY2hlci0zMDc0NzYz,Anthony,Nostro,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,5,3,1,100
+3009532,VGVhY2hlci0zMDA5NTMy,Manish,Bansal,Engineering,1349,Virginia Tech,Blacksburg,VA,3.2,3,6,66.6667
+2933498,VGVhY2hlci0yOTMzNDk4,Win,Nguyen,Engineering,1349,Virginia Tech,Blacksburg,VA,5,2.1,10,100
+2692065,VGVhY2hlci0yNjkyMDY1,Alexandrina,Untaroiu,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,3.7,3.6,9,66.6667
+2970276,VGVhY2hlci0yOTcwMjc2,Michelle,Soledad,Engineering,1349,Virginia Tech,Blacksburg,VA,4.8,1.5,12,100
+2615559,VGVhY2hlci0yNjE1NTU5,John,Shewchuk,Engineering,1349,Virginia Tech,Blacksburg,VA,4.3,2.5,4,75
+2439963,VGVhY2hlci0yNDM5OTYz,John,Wenskovitch,Computer Science,1349,Virginia Tech,Blacksburg,VA,4.2,2.9,19,78.9474
+2545660,VGVhY2hlci0yNTQ1NjYw,Sean,McGinnis,Engineering,1349,Virginia Tech,Blacksburg,VA,3.1,3.4,8,50
+1745049,VGVhY2hlci0xNzQ1MDQ5,Vinod,Lohani,Engineering,1349,Virginia Tech,Blacksburg,VA,2.9,2.3,4,0
+2771923,VGVhY2hlci0yNzcxOTIz,Guo-Quan,Lu,Engineering,1349,Virginia Tech,Blacksburg,VA,2.3,4.6,7,50
+3011045,VGVhY2hlci0zMDExMDQ1,Jonathan,Bluey,Building Construction,1349,Virginia Tech,Blacksburg,VA,3.6,3,5,60
+3004971,VGVhY2hlci0zMDA0OTcx,Daniel,Connors,Engineering,1349,Virginia Tech,Blacksburg,VA,3.4,2.6,5,80
+2837117,VGVhY2hlci0yODM3MTE3,Dayoung,Kim,Engineering,1349,Virginia Tech,Blacksburg,VA,4.5,2,4,100
+3070525,VGVhY2hlci0zMDcwNTI1,Richard,Bishop,Engineering,1349,Virginia Tech,Blacksburg,VA,5,2,1,100
+2697777,VGVhY2hlci0yNjk3Nzc3,Dimitrios,Nikolopoulos,Computer Science,1349,Virginia Tech,Blacksburg,VA,3.7,3.8,11,63.6364
+1669183,VGVhY2hlci0xNjY5MTgz,Sean,Corcoran,Engineering,1349,Virginia Tech,Blacksburg,VA,4.4,2.5,4,100
+3014972,VGVhY2hlci0zMDE0OTcy,Bradley,Bowen,Engineering,1349,Virginia Tech,Blacksburg,VA,5,1.3,3,100
+2615566,VGVhY2hlci0yNjE1NTY2,Jan Helge,Bohn,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,1,4.8,6,0
+1343530,VGVhY2hlci0xMzQzNTMw,Jan,Bohn,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,1.3,4,6,0
+2972351,VGVhY2hlci0yOTcyMzUx,Mathieu,Joerger,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,4.4,4.4,5,100
+2714438,VGVhY2hlci0yNzE0NDM4,Diana,Bairaktarova,Engineering,1349,Virginia Tech,Blacksburg,VA,4.8,1,4,100
+2972364,VGVhY2hlci0yOTcyMzY0,Yao,Fu,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,3.5,3.5,4,100
+2761239,VGVhY2hlci0yNzYxMjM5,Danesh,Tafti,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,2,4.5,2,0
+2863498,VGVhY2hlci0yODYzNDk4,Bryan,Katz,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,5,1.6,9,100
+2905039,VGVhY2hlci0yOTA1MDM5,Rui,Qiao,Engineering,1349,Virginia Tech,Blacksburg,VA,3.3,3.8,4,75
+2880238,VGVhY2hlci0yODgwMjM4,Binoy,Ravindran,Electrical & Computer Engineering,1349,Virginia Tech,Blacksburg,VA,5,2,1,100
+3010373,VGVhY2hlci0zMDEwMzcz,Pinar,Yanardag,Computer Science,1349,Virginia Tech,Blacksburg,VA,4.1,2.4,9,77.7778
+2949307,VGVhY2hlci0yOTQ5MzA3,Tom,Powers,Engineering,1349,Virginia Tech,Blacksburg,VA,3,3,1,0
+2936163,VGVhY2hlci0yOTM2MTYz,Emily,Dogan,Engineering,1349,Virginia Tech,Blacksburg,VA,5,2,3,100
+2832708,VGVhY2hlci0yODMyNzA4,Richard,Charles,Computer Science,1349,Virginia Tech,Blacksburg,VA,5,1.7,3,100
+3065059,VGVhY2hlci0zMDY1MDU5,Kevin ,Schroeder,Engineering,1349,Virginia Tech,Blacksburg,VA,5,3,1,100
+1039333,VGVhY2hlci0xMDM5MzMz,Rakesh,Kapania,Engineering,1349,Virginia Tech,Blacksburg,VA,2.4,3.8,4,33.3333
+3014155,VGVhY2hlci0zMDE0MTU1,Creed,Jones,Engineering,1349,Virginia Tech,Blacksburg,VA,4,2,2,100
+3063123,VGVhY2hlci0zMDYzMTIz,Justin,Jaworski,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,4,5,1,100
+3064686,VGVhY2hlci0zMDY0Njg2,Bradley,Denby,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,3,2,1,100
+3064683,VGVhY2hlci0zMDY0Njgz,Gregory,Young,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,3,3,1,100
+3064692,VGVhY2hlci0zMDY0Njky,Todd,Lowe,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,4,1,1,100
+1007366,VGVhY2hlci0xMDA3MzY2,Godmar,Back,Computer Science,1349,Virginia Tech,Blacksburg,VA,3.5,4.5,23,70.5882
+2689771,VGVhY2hlci0yNjg5Nzcx,Mantu,Hudait,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,4.5,3.1,11,81.8182
+2905225,VGVhY2hlci0yOTA1MjI1,David,Gonzales,Engineering,1349,Virginia Tech,Blacksburg,VA,4.6,3.6,8,87.5
+2972357,VGVhY2hlci0yOTcyMzU3,Riley,Fitzgerald,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,5,2,2,100
+2553128,VGVhY2hlci0yNTUzMTI4,Dan,Sable,Engineering,1349,Virginia Tech,Blacksburg,VA,5,3,2,100
+2891611,VGVhY2hlci0yODkxNjEx,Jeff,Walling,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,5,3,1,100
+1162091,VGVhY2hlci0xMTYyMDkx,Dewey,Spangler,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,2.3,4.3,12,50
+1694918,VGVhY2hlci0xNjk0OTE4,Ting-Chung,Poon,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,2.4,4.3,9,28.5714
+3035880,VGVhY2hlci0zMDM1ODgw,Levon,Asryan,Chemical Engineering,1349,Virginia Tech,Blacksburg,VA,3.3,1.8,4,100
+2909544,VGVhY2hlci0yOTA5NTQ0,Holly,Casey,Engineering,1349,Virginia Tech,Blacksburg,VA,3.5,2.5,2,100
+1193754,VGVhY2hlci0xMTkzNzU0,Brian,Vick,Engineering,1349,Virginia Tech,Blacksburg,VA,1.7,4,31,14.2857
+2392541,VGVhY2hlci0yMzkyNTQx,Pinar,Acar,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,5,3.4,5,100
+2622901,VGVhY2hlci0yNjIyOTAx,Walid,Thabet,Building Construction,1349,Virginia Tech,Blacksburg,VA,2,4.5,4,25
+3051836,VGVhY2hlci0zMDUxODM2,Paul,Plassmann,Electrical & Computer Engineering,1349,Virginia Tech,Blacksburg,VA,4.5,2.5,2,100
+2765806,VGVhY2hlci0yNzY1ODA2,Ming,Jin,Electrical amp Computer Engineering,1349,Virginia Tech,Blacksburg,VA,4,2.5,2,50
+2767957,VGVhY2hlci0yNzY3OTU3,Ryan,Williams,Electrical & Computer Engineering,1349,Virginia Tech,Blacksburg,VA,5,3,4,100
+3052333,VGVhY2hlci0zMDUyMzMz,Amun,Kharel,Computer Science,1349,Virginia Tech,Blacksburg,VA,5,2,3,100
+2319780,VGVhY2hlci0yMzE5Nzgw,Joseph,Dove,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,4.5,3.5,2,100
+3058098,VGVhY2hlci0zMDU4MDk4,Mark,Oliva,Computer Science,1349,Virginia Tech,Blacksburg,VA,5,1,1,100
+3058015,VGVhY2hlci0zMDU4MDE1,David,Mokarem,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,4,2,1,100
+3058040,VGVhY2hlci0zMDU4MDQw,Curt,Porterfield,Engineering,1349,Virginia Tech,Blacksburg,VA,1,4,1,0
+2933522,VGVhY2hlci0yOTMzNTIy,Alex,Aning,Engineering,1349,Virginia Tech,Blacksburg,VA,1.1,4.3,8,0
+2960550,VGVhY2hlci0yOTYwNTUw,Sydney,Hulse,Engineering,1349,Virginia Tech,Blacksburg,VA,5,5,1,100
+3056023,VGVhY2hlci0zMDU2MDIz,Nagender,Aneja,Electrical & Computer Engineering,1349,Virginia Tech,Blacksburg,VA,5,2,1,100
+1982802,VGVhY2hlci0xOTgyODAy,Kathleen,Hancock,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,5,3,3,100
+3046429,VGVhY2hlci0zMDQ2NDI5,Steve,Darr,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,5,1,1,100
+2981007,VGVhY2hlci0yOTgxMDA3,Hanna,Kindlund,Engineering,1349,Virginia Tech,Blacksburg,VA,1,5,1,0
+2650115,VGVhY2hlci0yNjUwMTE1,Laura,Savage,Engineering,1349,Virginia Tech,Blacksburg,VA,3.7,2,3,66.6667
+2899041,VGVhY2hlci0yODk5MDQx,Lindsay,Lally,Building Construction,1349,Virginia Tech,Blacksburg,VA,5,1.3,3,100
+1309089,VGVhY2hlci0xMzA5MDg5,Denis,Gracanin,Computer Science,1349,Virginia Tech,Blacksburg,VA,1.4,4.2,9,0
+2525521,VGVhY2hlci0yNTI1NTIx,David,Grey,Engineering,1349,Virginia Tech,Blacksburg,VA,5,2,1,100
+2705623,VGVhY2hlci0yNzA1NjIz,Richey,Davis,Chemical Engineering,1349,Virginia Tech,Blacksburg,VA,1.3,4,4,0
+717614,VGVhY2hlci03MTc2MTQ=,Michael,Buehrer,Engineering,1349,Virginia Tech,Blacksburg,VA,4.6,3.9,9,100
+2861052,VGVhY2hlci0yODYxMDUy,Jeffrey,Warfford,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,3,2.5,2,50
+2100284,VGVhY2hlci0yMTAwMjg0,Shvetha,Soundararajan,Computer Science,1349,Virginia Tech,Blacksburg,VA,3.7,2.7,3,50
+2995658,VGVhY2hlci0yOTk1NjU4,Joseph,Vantassel,Engineering,1349,Virginia Tech,Blacksburg,VA,1,5,1,0
+2989567,VGVhY2hlci0yOTg5NTY3,Sajad,Khodadadian,Engineering,1349,Virginia Tech,Blacksburg,VA,1.8,4.9,21,14.2857
+1131515,VGVhY2hlci0xMTMxNTE1,Brian,Lattimer,Engineering,1349,Virginia Tech,Blacksburg,VA,3.3,3,5,66.6667
+2385657,VGVhY2hlci0yMzg1NjU3,Josh,Iorio,Building Construction,1349,Virginia Tech,Blacksburg,VA,3,1.5,4,50
+2817849,VGVhY2hlci0yODE3ODQ5,Michael,Bartlett,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,5,2,1,100
+3025189,VGVhY2hlci0zMDI1MTg5,Kevin,Kochersberger,Engineering,1349,Virginia Tech,Blacksburg,VA,1,2,1,0
+2287121,VGVhY2hlci0yMjg3MTIx,Peter,Han,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,1.9,4.3,33,18.1818
+3025187,VGVhY2hlci0zMDI1MTg3,Andre,Muelenaer,Engineering,1349,Virginia Tech,Blacksburg,VA,1,2,1,0
+2774477,VGVhY2hlci0yNzc0NDc3,Chenming Mike,Zhang,Engineering,1349,Virginia Tech,Blacksburg,VA,4.7,4.7,3,100
+2615550,VGVhY2hlci0yNjE1NTUw,Michael,Philen,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,3.2,2.9,12,58.3333
+2886639,VGVhY2hlci0yODg2NjM5,Mariah,Henderson,Engineering,1349,Virginia Tech,Blacksburg,VA,1.4,4.1,9,11.1111
+2695807,VGVhY2hlci0yNjk1ODA3,Christopher,Kwaramba,Engineering,1349,Virginia Tech,Blacksburg,VA,2.1,2.9,18,33.3333
+2843723,VGVhY2hlci0yODQzNzIz,Jaisohn,Kim,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,3.5,3.9,13,61.5385
+1341197,VGVhY2hlci0xMzQxMTk3,Michael,Ruohoniemi,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,3.8,2.7,3,100
+2739447,VGVhY2hlci0yNzM5NDQ3,Daniel,Dunlap,Computer Science,1349,Virginia Tech,Blacksburg,VA,5,1.2,6,100
+824335,VGVhY2hlci04MjQzMzU=,A. Lynn,Abbott,Engineering,1349,Virginia Tech,Blacksburg,VA,3.8,3,3,50
+1623724,VGVhY2hlci0xNjIzNzI0,Randy,Marchany,Computer Science,1349,Virginia Tech,Blacksburg,VA,4.5,3,3,100
+2931623,VGVhY2hlci0yOTMxNjIz,Jordan,Budhu,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,3,3.5,2,50
+2501053,VGVhY2hlci0yNTAxMDUz,Marie,Paretti,Engineering,1349,Virginia Tech,Blacksburg,VA,4.5,3,2,100
+3014150,VGVhY2hlci0zMDE0MTUw,Peng,Gao,Computer Science,1349,Virginia Tech,Blacksburg,VA,1,4,1,0
+3014169,VGVhY2hlci0zMDE0MTY5,Thidapat,Chantem,Engineering,1349,Virginia Tech,Blacksburg,VA,4,3,1,100
+2891584,VGVhY2hlci0yODkxNTg0,Chris,Thomas,Computer Science,1349,Virginia Tech,Blacksburg,VA,5,4.8,5,100
+2700524,VGVhY2hlci0yNzAwNTI0,Nathan,Lau,Engineering,1349,Virginia Tech,Blacksburg,VA,3.4,3,5,100
+3013654,VGVhY2hlci0zMDEzNjU0,TM,Murali,Computer Science,1349,Virginia Tech,Blacksburg,VA,1,5,2,0
+3013024,VGVhY2hlci0zMDEzMDI0,Aurelien,Borgoltz,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,3,3,1,0
+3013031,VGVhY2hlci0zMDEzMDMx,Shane,Ross,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,5,2,1,100
+3013296,VGVhY2hlci0zMDEzMjk2,William,Devenport,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,5,2,1,100
+2965260,VGVhY2hlci0yOTY1MjYw,John ,Barbish,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,4.8,2.5,4,100
+3011012,VGVhY2hlci0zMDExMDEy,Monica,Arul,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,3,4,1,100
+2808050,VGVhY2hlci0yODA4MDUw,Onyeka,Emebo,Computer Science,1349,Virginia Tech,Blacksburg,VA,4.9,2.1,7,100
+2657891,VGVhY2hlci0yNjU3ODkx,Yong,Lee,Engineering,1349,Virginia Tech,Blacksburg,VA,5,1.3,3,100
+2774476,VGVhY2hlci0yNzc0NDc2,Clay,Wright,Engineering,1349,Virginia Tech,Blacksburg,VA,5,2.5,2,100
+2986069,VGVhY2hlci0yOTg2MDY5,Denton,Yoder,Engineering,1349,Virginia Tech,Blacksburg,VA,4,2,1,100
+2882417,VGVhY2hlci0yODgyNDE3,John ,Little,Engineering,1349,Virginia Tech,Blacksburg,VA,1,4.5,2,0
+2701683,VGVhY2hlci0yNzAxNjgz,Wu-chun,Feng,Computer Science,1349,Virginia Tech,Blacksburg,VA,5,2,1,100
+2766855,VGVhY2hlci0yNzY2ODU1,Bimal,Viswanath,Computer Science,1349,Virginia Tech,Blacksburg,VA,1,4.5,4,0
+2967537,VGVhY2hlci0yOTY3NTM3,Poorvesh,Dongre,Computer Science,1349,Virginia Tech,Blacksburg,VA,2,4.3,3,0
+1167863,VGVhY2hlci0xMTY3ODYz,Ranga,Pitchumani,Engineering,1349,Virginia Tech,Blacksburg,VA,2,4.8,5,0
+2991787,VGVhY2hlci0yOTkxNzg3,Brendan,David-John,Computer Science,1349,Virginia Tech,Blacksburg,VA,5,2,1,100
+2725037,VGVhY2hlci0yNzI1MDM3,Lifu,Huang,Computer Science,1349,Virginia Tech,Blacksburg,VA,1.3,4.3,9,0
+2967619,VGVhY2hlci0yOTY3NjE5,Jesse,Harden,Computer Science,1349,Virginia Tech,Blacksburg,VA,3.5,2.5,2,50
+969843,VGVhY2hlci05Njk4NDM=,Kevin,Young,Engineering,1349,Virginia Tech,Blacksburg,VA,5,2.7,7,100
+2937349,VGVhY2hlci0yOTM3MzQ5,Martin,Skarzynski,Computer Science,1349,Virginia Tech,Blacksburg,VA,4,1.5,2,50
+2552220,VGVhY2hlci0yNTUyMjIw,Andrew,Katz,Engineering,1349,Virginia Tech,Blacksburg,VA,5,1.5,6,100
+2926409,VGVhY2hlci0yOTI2NDA5,Xun,Jian,Computer Science,1349,Virginia Tech,Blacksburg,VA,1.5,4.5,2,0
+2866099,VGVhY2hlci0yODY2MDk5,Eric,Paterson,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,2.5,4.3,4,25
+2455861,VGVhY2hlci0yNDU1ODYx,Al,Wicks,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,1.6,4.6,5,20
+2394779,VGVhY2hlci0yMzk0Nzc5,Scott,England,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,5,3.3,4,100
+2943019,VGVhY2hlci0yOTQzMDE5,Luca,Massa,Engineering,1349,Virginia Tech,Blacksburg,VA,2,4,2,0
+2776463,VGVhY2hlci0yNzc2NDYz,Oumar,Barry,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,1,5,3,0
+2406336,VGVhY2hlci0yNDA2MzM2,Ling,Li,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,2.7,3.7,18,38.8889
+2938900,VGVhY2hlci0yOTM4OTAw,Hesham,Elmkharram,Engineering,1349,Virginia Tech,Blacksburg,VA,1.2,4.7,11,0
+2520166,VGVhY2hlci0yNTIwMTY2,Adnan,Sarker,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,2.4,4.2,5,20
+2657900,VGVhY2hlci0yNjU3OTAw,Rebecca,Cai,Engineering,1349,Virginia Tech,Blacksburg,VA,4.5,2.5,2,100
+2703932,VGVhY2hlci0yNzAzOTMy,Arinjoy,Basak,Computer Science,1349,Virginia Tech,Blacksburg,VA,1.8,3.4,5,20
+2332798,VGVhY2hlci0yMzMyNzk4,Shena,Davison,Engineering,1349,Virginia Tech,Blacksburg,VA,5,3,4,100
+2867629,VGVhY2hlci0yODY3NjI5,Eli ,Tilevich,Computer Science,1349,Virginia Tech,Blacksburg,VA,4,2.5,4,80
+2816261,VGVhY2hlci0yODE2MjYx,Eman,Abdelrahman,Computer Science,1349,Virginia Tech,Blacksburg,VA,4.3,2,3,100
+2294291,VGVhY2hlci0yMjk0Mjkx,Alejandro,Salado,Engineering,1349,Virginia Tech,Blacksburg,VA,1,5,2,0
+2689010,VGVhY2hlci0yNjg5MDEw,Nicole,Pitterson,Engineering,1349,Virginia Tech,Blacksburg,VA,4.5,1.5,4,100
+1112617,VGVhY2hlci0xMTEyNjE3,Gerardo,Flintsch,Engineering,1349,Virginia Tech,Blacksburg,VA,3.8,4.3,4,0
+2963724,VGVhY2hlci0yOTYzNzI0,Dong,Ha,Electrical & Computer Engineering,1349,Virginia Tech,Blacksburg,VA,2,4,1,0
+2742275,VGVhY2hlci0yNzQyMjc1,Yaling,Yang,Electrical & Computer Engineering,1349,Virginia Tech,Blacksburg,VA,1,2.5,2,0
+2875128,VGVhY2hlci0yODc1MTI4,Cary,Harwood,Engineering,1349,Virginia Tech,Blacksburg,VA,5,1.5,2,100
+2702137,VGVhY2hlci0yNzAyMTM3,Ashley,Johnson,Engineering,1349,Virginia Tech,Blacksburg,VA,4.5,1.5,2,100
+2551946,VGVhY2hlci0yNTUxOTQ2,Abiola,Akanmu,Building Construction,1349,Virginia Tech,Blacksburg,VA,3.2,4,6,66.6667
+2426911,VGVhY2hlci0yNDI2OTEx,Rachieda,Lewis,Engineering,1349,Virginia Tech,Blacksburg,VA,4.5,2.3,4,100
+2902367,VGVhY2hlci0yOTAyMzY3,Andrew,Kulak,Computer Science,1349,Virginia Tech,Blacksburg,VA,1.4,3.6,8,12.5
+2774471,VGVhY2hlci0yNzc0NDcx,Jonathan,Czuba,Engineering,1349,Virginia Tech,Blacksburg,VA,5,2,3,100
+2336582,VGVhY2hlci0yMzM2NTgy,B. Aditya,Prakash,Computer Science,1349,Virginia Tech,Blacksburg,VA,2,4,1,0
+2615567,VGVhY2hlci0yNjE1NTY3,Chang Min,Son,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,2,4.3,4,25
+2818651,VGVhY2hlci0yODE4NjUx,Prasenjit,Ghorai,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,1,4.3,4,0
+2852287,VGVhY2hlci0yODUyMjg3,Benjamin,Goldschneider,Engineering,1349,Virginia Tech,Blacksburg,VA,4.8,2.2,5,100
+2941268,VGVhY2hlci0yOTQxMjY4,Julia,Kleponis,Engineering,1349,Virginia Tech,Blacksburg,VA,5,3,1,100
+2937351,VGVhY2hlci0yOTM3MzUx,Christopher,Cuozzo,Computer Science,1349,Virginia Tech,Blacksburg,VA,5,1,1,100
+2937346,VGVhY2hlci0yOTM3MzQ2,Kurt,Luther,Computer Science,1349,Virginia Tech,Blacksburg,VA,5,2,1,100
+2266466,VGVhY2hlci0yMjY2NDY2,Christopher,Roy,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,5,2.7,3,100
+2935796,VGVhY2hlci0yOTM1Nzk2,John,Palmore Jr.,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,2,5,1,0
+2595014,VGVhY2hlci0yNTk1MDE0,Phil,Agee,Building Construction,1349,Virginia Tech,Blacksburg,VA,5,3,3,100
+2919454,VGVhY2hlci0yOTE5NDU0,Yoonjin,Kim,Computer Science,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2907708,VGVhY2hlci0yOTA3NzA4,Vassillis,Kekatos,Engineering,1349,Virginia Tech,Blacksburg,VA,1,3.8,4,0
+2913544,VGVhY2hlci0yOTEzNTQ0,Nanyaporn,Intaratep,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,4,4,1,100
+2883670,VGVhY2hlci0yODgzNjcw,Taha,Hassan,Computer Science,1349,Virginia Tech,Blacksburg,VA,3.7,3.8,6,66.6667
+1015332,VGVhY2hlci0xMDE1MzMy,Laurel,Travis,Engineering,1349,Virginia Tech,Blacksburg,VA,3.1,3.3,13,50
+2831751,VGVhY2hlci0yODMxNzUx,Sharath,Raghvendra,Computer Science,1349,Virginia Tech,Blacksburg,VA,3,4.5,2,50
+2551961,VGVhY2hlci0yNTUxOTYx,Georg,Reichard,Building Construction,1349,Virginia Tech,Blacksburg,VA,1.8,3.8,6,16.6667
+2774474,VGVhY2hlci0yNzc0NDc0,Ryan,Senger,Engineering,1349,Virginia Tech,Blacksburg,VA,5,3,1,100
+2700527,VGVhY2hlci0yNzAwNTI3,Shingirai,Kwaramba,Engineering,1349,Virginia Tech,Blacksburg,VA,3,2.5,2,100
+2862863,VGVhY2hlci0yODYyODYz,Ella,Atkins,Engineering,1349,Virginia Tech,Blacksburg,VA,3,3,1,100
+2847661,VGVhY2hlci0yODQ3NjYx,Khadijah,Al Safwan,Computer Science,1349,Virginia Tech,Blacksburg,VA,5,1.5,2,100
+2833802,VGVhY2hlci0yODMzODAy,Prahalada,Rao,Engineering,1349,Virginia Tech,Blacksburg,VA,4,3,1,100
+2400179,VGVhY2hlci0yNDAwMTc5,Joseph,Meadows,Engineering,1349,Virginia Tech,Blacksburg,VA,4,3.6,5,60
+2798600,VGVhY2hlci0yNzk4NjAw,Antonio,Trani,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,5,2,2,100
+2837128,VGVhY2hlci0yODM3MTI4,Jenna,Sims,Engineering,1349,Virginia Tech,Blacksburg,VA,5,1,2,100
+1771700,VGVhY2hlci0xNzcxNzAw,Kenneth,Stevens,Computer Science,1349,Virginia Tech,Blacksburg,VA,1.9,3.6,13,33.3333
+11202,VGVhY2hlci0xMTIwMg==,Hanif,Sherali,Engineering,1349,Virginia Tech,Blacksburg,VA,5,2.7,7,100
+2807824,VGVhY2hlci0yODA3ODI0,Derek,Haqq,Computer Science,1349,Virginia Tech,Blacksburg,VA,3.4,2.4,5,60
+2110489,VGVhY2hlci0yMTEwNDg5,Michael,Ellis,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,4.3,3.3,3,100
+984012,VGVhY2hlci05ODQwMTI=,Thomas,Mills,Building Construction,1349,Virginia Tech,Blacksburg,VA,2.7,2.7,9,25
+923563,VGVhY2hlci05MjM1NjM=,Allen,MacKenzie,Engineering,1349,Virginia Tech,Blacksburg,VA,1.3,4,3,0
+1620790,VGVhY2hlci0xNjIwNzkw,Hesham,Rakha,Engineering,1349,Virginia Tech,Blacksburg,VA,3,4,3,33.3333
+2632179,VGVhY2hlci0yNjMyMTc5,Andrey,Esakia,Computer Science,1349,Virginia Tech,Blacksburg,VA,4,2,2,100
+2722388,VGVhY2hlci0yNzIyMzg4,Anuj,Karpatne,Computer Science,1349,Virginia Tech,Blacksburg,VA,4.5,3.5,4,75
+590972,VGVhY2hlci01OTA5NzI=,Noah,Barnette,Computer Science,1349,Virginia Tech,Blacksburg,VA,2,4.1,51,27.2727
+358303,VGVhY2hlci0zNTgzMDM=,William,McQuain,Computer Science,1349,Virginia Tech,Blacksburg,VA,2.8,4.1,23,46.1538
+1674839,VGVhY2hlci0xNjc0ODM5,Daniel,Dudek,Engineering,1349,Virginia Tech,Blacksburg,VA,4.5,3,2,100
+319547,VGVhY2hlci0zMTk1NDc=,Richard,Cooper,Engineering,1349,Virginia Tech,Blacksburg,VA,4.8,3,2,100
+1104174,VGVhY2hlci0xMTA0MTc0,Mehdi,Ahmadian,Engineering,1349,Virginia Tech,Blacksburg,VA,3.7,1.7,3,100
+2798415,VGVhY2hlci0yNzk4NDE1,Mark,Huerta,Engineering,1349,Virginia Tech,Blacksburg,VA,5,1,2,100
+2657365,VGVhY2hlci0yNjU3MzY1,Pinhas,Ben-Tzvi,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,4.6,3.4,22,90.9091
+2666660,VGVhY2hlci0yNjY2NjYw,Zheng,Li,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,4.3,2.3,3,66.6667
+2696031,VGVhY2hlci0yNjk2MDMx,Andria,Esakia,Computer Science,1349,Virginia Tech,Blacksburg,VA,4.5,1.5,2,100
+2743862,VGVhY2hlci0yNzQzODYy,Eunsil,Lee,Engineering,1349,Virginia Tech,Blacksburg,VA,4.4,2.3,7,85.7143
+2774491,VGVhY2hlci0yNzc0NDkx,Elena,Lind,Electrical amp Computer Engineering,1349,Virginia Tech,Blacksburg,VA,2,5,2,50
+2747347,VGVhY2hlci0yNzQ3MzQ3,Changwoo,Min,Electrical & Computer Engineering,1349,Virginia Tech,Blacksburg,VA,3,3,1,100
+2790842,VGVhY2hlci0yNzkwODQy,Inga,Schlier,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,5,2,1,100
+2770823,VGVhY2hlci0yNzcwODIz,Yalong,Yang,Computer Science,1349,Virginia Tech,Blacksburg,VA,1.3,5,14,0
+2456924,VGVhY2hlci0yNDU2OTI0,Homero,Murzi,Engineering,1349,Virginia Tech,Blacksburg,VA,5,1.5,2,100
+2782604,VGVhY2hlci0yNzgyNjA0,Adrian,Sandu,Computer Science,1349,Virginia Tech,Blacksburg,VA,2,5,1,0
+1908383,VGVhY2hlci0xOTA4Mzgz,Raffaella,De Vita,Engineering,1349,Virginia Tech,Blacksburg,VA,1.9,4.2,5,0
+2187666,VGVhY2hlci0yMTg3NjY2,Sunil,Sinha,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,1.5,1.8,4,0
+2741507,VGVhY2hlci0yNzQxNTA3,Patrick,Butler,Computer Science,1349,Virginia Tech,Blacksburg,VA,1,3,2,0
+2774485,VGVhY2hlci0yNzc0NDg1,Kyle,Strom,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,3,4,1,100
+2771597,VGVhY2hlci0yNzcxNTk3,Jaime,De La Ree,Electrical & Computer Engineering,1349,Virginia Tech,Blacksburg,VA,5,4,1,100
+2718122,VGVhY2hlci0yNzE4MTIy,Shivakumar,Ranganathan,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,1.3,4.4,7,0
+2761237,VGVhY2hlci0yNzYxMjM3,S. C.,Mariger,Engineering,1349,Virginia Tech,Blacksburg,VA,5,2,1,100
+2742362,VGVhY2hlci0yNzQyMzYy,Haibo,Zeng,Electrical & Computer Engineering,1349,Virginia Tech,Blacksburg,VA,2.5,2.5,2,50
+2724416,VGVhY2hlci0yNzI0NDE2,Jeremi,London,Engineering,1349,Virginia Tech,Blacksburg,VA,2,2.7,3,66.6667
+991421,VGVhY2hlci05OTE0MjE=,Jamie,De La Ree,Engineering,1349,Virginia Tech,Blacksburg,VA,4.8,4.3,3,100
+2723653,VGVhY2hlci0yNzIzNjUz,Heng,Xiao,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,4,3.5,2,0
+2582936,VGVhY2hlci0yNTgyOTM2,Weijun,Xie,Engineering,1349,Virginia Tech,Blacksburg,VA,1,5,1,0
+2550770,VGVhY2hlci0yNTUwNzcw,Layne,Watson,Computer Science,1349,Virginia Tech,Blacksburg,VA,1,5,2,0
+2470380,VGVhY2hlci0yNDcwMzgw,Rodrigo,Sarlo,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,5,2,1,100
+2750095,VGVhY2hlci0yNzUwMDk1,Dong,Dong,Electrical & Computer Engineering,1349,Virginia Tech,Blacksburg,VA,1,5,1,0
+2275976,VGVhY2hlci0yMjc1OTc2,Dennis,Kafura,Computer Science,1349,Virginia Tech,Blacksburg,VA,4.7,2.7,3,100
+1864831,VGVhY2hlci0xODY0ODMx,Hamilton,Turner,Engineering,1349,Virginia Tech,Blacksburg,VA,5,3,1,100
+2700521,VGVhY2hlci0yNzAwNTIx,Michael,Taaffe,Engineering,1349,Virginia Tech,Blacksburg,VA,5,4,2,100
+2605480,VGVhY2hlci0yNjA1NDgw,Lindah,Kotut,Computer Science,1349,Virginia Tech,Blacksburg,VA,2.7,4.1,16,43.75
+2620781,VGVhY2hlci0yNjIwNzgx,Kase,Poling,Engineering,1349,Virginia Tech,Blacksburg,VA,5,3,1,100
+2658200,VGVhY2hlci0yNjU4MjAw,Arefeh,Mohammadi,Engineering,1349,Virginia Tech,Blacksburg,VA,4,2,4,100
+2347380,VGVhY2hlci0yMzQ3Mzgw,Tanyel,Bulbul,Building Construction,1349,Virginia Tech,Blacksburg,VA,4,5,1,100
+2700515,VGVhY2hlci0yNzAwNTE1,Ozan,Sert,Engineering,1349,Virginia Tech,Blacksburg,VA,4,3,1,100
+2084650,VGVhY2hlci0yMDg0NjUw,Matthew,Rice,Engineering,1349,Virginia Tech,Blacksburg,VA,3,3.8,5,75
+2654357,VGVhY2hlci0yNjU0MzU3,Wenjun,Cai,Engineering,1349,Virginia Tech,Blacksburg,VA,4,3,1,100
+2661892,VGVhY2hlci0yNjYxODky,Tawni,Paradise,Engineering,1349,Virginia Tech,Blacksburg,VA,5,2,2,100
+2104111,VGVhY2hlci0yMTA0MTEx,Adam,Barnes,Engineering,1349,Virginia Tech,Blacksburg,VA,3.7,4.3,3,66.6667
+2214523,VGVhY2hlci0yMjE0NTIz,Jia-Bin,Huang,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,1,1,1,0
+2525743,VGVhY2hlci0yNTI1NzQz,Kichol,Lee,Engineering,1349,Virginia Tech,Blacksburg,VA,1,3.7,3,0
+2657897,VGVhY2hlci0yNjU3ODk3,Sara,Arena,Engineering,1349,Virginia Tech,Blacksburg,VA,5,2,1,100
+2651800,VGVhY2hlci0yNjUxODAw,Scott,Sink,Engineering,1349,Virginia Tech,Blacksburg,VA,1,5,3,0
+2087197,VGVhY2hlci0yMDg3MTk3,Ingrid,St. Omer,Engineering,1349,Virginia Tech,Blacksburg,VA,1.3,4.4,14,11.1111
+2621274,VGVhY2hlci0yNjIxMjc0,Robert,Matthews,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,1,3,1,0
+618929,VGVhY2hlci02MTg5Mjk=,Scott,Hendricks,Engineering,1349,Virginia Tech,Blacksburg,VA,4,4,28,0
+2100394,VGVhY2hlci0yMTAwMzk0,William,Butler,Engineering,1349,Virginia Tech,Blacksburg,VA,4.2,4,3,100
+2550043,VGVhY2hlci0yNTUwMDQz,Juliana,Pacheco Duarte,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,2.3,3.7,3,33.3333
+2615555,VGVhY2hlci0yNjE1NTU1,Yunhui,Zhu,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,4,3,1,100
+2213567,VGVhY2hlci0yMjEzNTY3,Bob,Muir,Building Construction,1349,Virginia Tech,Blacksburg,VA,1,5,1,0
+2551955,VGVhY2hlci0yNTUxOTU1,Ashley,Johnson,Building Construction,1349,Virginia Tech,Blacksburg,VA,3,2,2,100
+2348634,VGVhY2hlci0yMzQ4NjM0,Maryam,Shakiba,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,2.7,3.7,3,33.3333
+2276645,VGVhY2hlci0yMjc2NjQ1,Christopher,Williams,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,5,3.3,3,100
+2566613,VGVhY2hlci0yNTY2NjEz,Mekonen,Halefom,Engineering,1349,Virginia Tech,Blacksburg,VA,5,2,1,100
+2560391,VGVhY2hlci0yNTYwMzkx,Peter,Athanas,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,1,4,1,0
+2212086,VGVhY2hlci0yMjEyMDg2,Ken,Reid,Engineering,1349,Virginia Tech,Blacksburg,VA,4.7,3.3,3,100
+2432719,VGVhY2hlci0yNDMyNzE5,Thaddeus,Black,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,2.5,3.8,4,50
+2472071,VGVhY2hlci0yNDcyMDcx,Indhira,Hasbun,Engineering,1349,Virginia Tech,Blacksburg,VA,4.5,2,2,100
+2430396,VGVhY2hlci0yNDMwMzk2,David,Goldsmith,Engineering,1349,Virginia Tech,Blacksburg,VA,2.3,3,4,50
+2475211,VGVhY2hlci0yNDc1MjEx,Jeffery,Mayer,Engineering,1349,Virginia Tech,Blacksburg,VA,1,5,1,0
+2264360,VGVhY2hlci0yMjY0MzYw,James,Hanna,Engineering,1349,Virginia Tech,Blacksburg,VA,3,4.5,2,50
+2230296,VGVhY2hlci0yMjMwMjk2,Michael,Irwin,Computer Science,1349,Virginia Tech,Blacksburg,VA,4.5,3.5,2,100
+1169186,VGVhY2hlci0xMTY5MTg2,Russell,Green,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,4.8,1.4,5,100
+2281534,VGVhY2hlci0yMjgxNTM0,Abdelbaset,Hamza,Engineering,1349,Virginia Tech,Blacksburg,VA,4,3.7,3,66.6667
+2444395,VGVhY2hlci0yNDQ0Mzk1,Jiepu,Jiang,Computer Science,1349,Virginia Tech,Blacksburg,VA,3.7,2.7,3,66.6667
+1833640,VGVhY2hlci0xODMzNjQw,Holly,Matusovich,Engineering,1349,Virginia Tech,Blacksburg,VA,4,1,1,100
+2389259,VGVhY2hlci0yMzg5MjU5,Bailey,Cooper,Engineering,1349,Virginia Tech,Blacksburg,VA,1,4.5,2,0
+2277052,VGVhY2hlci0yMjc3MDUy,Donatus,Ohanehi,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,2.3,2.7,3,66.6667
+2394694,VGVhY2hlci0yMzk0Njk0,Alexey,Onufriev,Computer Science,1349,Virginia Tech,Blacksburg,VA,1,5,1,0
+2384212,VGVhY2hlci0yMzg0MjEy,Jake,Grohs,Engineering,1349,Virginia Tech,Blacksburg,VA,3.5,3,2,50
+656267,VGVhY2hlci02NTYyNjc=,Maura,Borrego,Engineering,1349,Virginia Tech,Blacksburg,VA,4,2.8,8,100
+2374877,VGVhY2hlci0yMzc0ODc3,Chris,Jelesnianski,Engineering,1349,Virginia Tech,Blacksburg,VA,2,4,1,0
+2335317,VGVhY2hlci0yMzM1MzE3,Patrick,Koelling,Engineering,1349,Virginia Tech,Blacksburg,VA,3,4,1,0
+2061496,VGVhY2hlci0yMDYxNDk2,Joe,O'Neal,Building Construction,1349,Virginia Tech,Blacksburg,VA,3.5,2.5,2,0
+1857373,VGVhY2hlci0xODU3Mzcz,Richard,Goff,Engineering,1349,Virginia Tech,Blacksburg,VA,4.3,3,3,100
+2253346,VGVhY2hlci0yMjUzMzQ2,Yousef,Jalali,Engineering,1349,Virginia Tech,Blacksburg,VA,5,2,3,100
+2259324,VGVhY2hlci0yMjU5MzI0,Alfonso,Rivera,Engineering,1349,Virginia Tech,Blacksburg,VA,2,3,1,0
+1458241,VGVhY2hlci0xNDU4MjQx,Tamal,Bose,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,3.5,3.8,4,100
+1924690,VGVhY2hlci0xOTI0Njkw,Ashish,Agrawal,Engineering,1349,Virginia Tech,Blacksburg,VA,1.7,3.3,6,0
+2184015,VGVhY2hlci0yMTg0MDE1,Kevin,Wang,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,1,5,2,0
+1786829,VGVhY2hlci0xNzg2ODI5,Kacie,Hodges,Engineering,1349,Virginia Tech,Blacksburg,VA,3.2,3,5,50
+988181,VGVhY2hlci05ODgxODE=,Csaba,Egyhazy,Computer Science,1349,Virginia Tech,Blacksburg,VA,2.1,3.8,4,100
+2267535,VGVhY2hlci0yMjY3NTM1,Pablo,Tarazaga,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,5,3,1,100
+2266471,VGVhY2hlci0yMjY2NDcx,Pradeep,Raj,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,3,2,1,0
+1670855,VGVhY2hlci0xNjcwODU1,Ali,Butt,Computer Science,1349,Virginia Tech,Blacksburg,VA,4.5,4,2,100
+876730,VGVhY2hlci04NzY3MzA=,.,Ohanehi,Engineering,1349,Virginia Tech,Blacksburg,VA,1.7,3.4,16,0
+358309,VGVhY2hlci0zNTgzMDk=,Naren,Ramakrishnan,Computer Science,1349,Virginia Tech,Blacksburg,VA,5,4,3,100
+1877118,VGVhY2hlci0xODc3MTE4,Mariusz,Orlowski,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,5,2.5,2,100
+1378744,VGVhY2hlci0xMzc4NzQ0,Charles,Koelling,Engineering,1349,Virginia Tech,Blacksburg,VA,1,3.5,2,-1
+2017076,VGVhY2hlci0yMDE3MDc2,Nina,Stark,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,4.8,2.5,2,-1
+2129562,VGVhY2hlci0yMTI5NTYy,Hardus,Odendaal,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,1.5,1,1,-1
+2108505,VGVhY2hlci0yMTA4NTA1,Henry,Monti,Computer Science,1349,Virginia Tech,Blacksburg,VA,1.2,4.3,3,-1
+2111748,VGVhY2hlci0yMTExNzQ4,Yvan,Beliveau,Building Construction,1349,Virginia Tech,Blacksburg,VA,5,3,1,-1
+2109135,VGVhY2hlci0yMTA5MTM1,Keyur,Joshi,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,1,5,1,-1
+1101944,VGVhY2hlci0xMTAxOTQ0,Masoud,Agah,Engineering,1349,Virginia Tech,Blacksburg,VA,3.7,1.8,5,-1
+1586325,VGVhY2hlci0xNTg2MzI1,Guney,Olgun,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,3.5,2,1,-1
+264932,VGVhY2hlci0yNjQ5MzI=,Tamara,Knott,Engineering,1349,Virginia Tech,Blacksburg,VA,2.7,3.6,11,-1
+1921633,VGVhY2hlci0xOTIxNjMz,Mahendra,Singh,Engineering,1349,Virginia Tech,Blacksburg,VA,1,5,1,-1
+1906480,VGVhY2hlci0xOTA2NDgw,Larsen,Ethan,Engineering,1349,Virginia Tech,Blacksburg,VA,5,3,1,-1
+1263410,VGVhY2hlci0xMjYzNDEw,Jason,Lai,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,5,2,1,-1
+863545,VGVhY2hlci04NjM1NDU=,Vickie,Mouras,Engineering,1349,Virginia Tech,Blacksburg,VA,5,3,1,-1
+904058,VGVhY2hlci05MDQwNTg=,Nakhiah,Goulbourne,Engineering,1349,Virginia Tech,Blacksburg,VA,1.5,4.1,12,-1
+1697887,VGVhY2hlci0xNjk3ODg3,Pavlos,Vlachos,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,4,2,1,-1
+1552964,VGVhY2hlci0xNTUyOTY0,John,Kennedy,Engineering,1349,Virginia Tech,Blacksburg,VA,2.5,4,2,-1
+661571,VGVhY2hlci02NjE1NzE=,Lee,Fred,Engineering,1349,Virginia Tech,Blacksburg,VA,5,1,1,-1
+230593,VGVhY2hlci0yMzA1OTM=,John,Duke,Engineering,1349,Virginia Tech,Blacksburg,VA,2.2,2,5,-1
+731512,VGVhY2hlci03MzE1MTI=,A,Safaai-Jazi,Engineering,1349,Virginia Tech,Blacksburg,VA,3.8,2.5,8,-1
+1830388,VGVhY2hlci0xODMwMzg4,Mary,Kasarda,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,3,5,1,-1
+1406448,VGVhY2hlci0xNDA2NDQ4,Jack,Lesko,Engineering,1349,Virginia Tech,Blacksburg,VA,2.8,3.5,2,-1
+724147,VGVhY2hlci03MjQxNDc=,Clint,Dancey,Engineering,1349,Virginia Tech,Blacksburg,VA,4.5,3.5,2,-1
+1816378,VGVhY2hlci0xODE2Mzc4,Alireza,Chadegani,Engineering,1349,Virginia Tech,Blacksburg,VA,5,2,1,-1
+820126,VGVhY2hlci04MjAxMjY=,Ronald,Kriz,Engineering,1349,Virginia Tech,Blacksburg,VA,1.7,3.4,7,-1
+1629412,VGVhY2hlci0xNjI5NDEy,Claudio,Da Silva,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,4.5,4.7,3,-1
+456257,VGVhY2hlci00NTYyNTc=,Tom,Walker,Engineering,1349,Virginia Tech,Blacksburg,VA,2.6,3.3,8,-1
+1026270,VGVhY2hlci0xMDI2Mjcw,Lili,Ma,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,1.5,4,2,-1
+1240427,VGVhY2hlci0xMjQwNDI3,Anne,Staples,Engineering,1349,Virginia Tech,Blacksburg,VA,3.6,2.8,4,-1
+624051,VGVhY2hlci02MjQwNTE=,Joseph,Tront,Engineering,1349,Virginia Tech,Blacksburg,VA,3.7,3.7,7,-1
+635910,VGVhY2hlci02MzU5MTA=,Joel,Nachlas,Engineering,1349,Virginia Tech,Blacksburg,VA,1,5,1,-1
+1609976,VGVhY2hlci0xNjA5OTc2,Yaman,Evrenosoglu,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,5,4,1,-1
+1663071,VGVhY2hlci0xNjYzMDcx,Tomonari,Furukawa,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,1,4,1,-1
+1623725,VGVhY2hlci0xNjIzNzI1,Luiz,Silva,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,3.5,2,1,-1
+577680,VGVhY2hlci01Nzc2ODA=,Romesh,Batra,Engineering,1349,Virginia Tech,Blacksburg,VA,3.9,4.5,4,-1
+1594252,VGVhY2hlci0xNTk0MjUy,Joseph,Saifur Rahman,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,1,4,1,-1
+950036,VGVhY2hlci05NTAwMzY=,Christopher,Hall,Engineering,1349,Virginia Tech,Blacksburg,VA,5,2,2,-1
+1541447,VGVhY2hlci0xNTQxNDQ3,Cory,Fleischman,Engineering,1349,Virginia Tech,Blacksburg,VA,4.5,3,1,-1
+1520730,VGVhY2hlci0xNTIwNzMw,Wayne,Neu,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,1,4,1,-1
+1417843,VGVhY2hlci0xNDE3ODQz,Owen,Hughes,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,4,4,1,-1
+563870,VGVhY2hlci01NjM4NzA=,Conrad,Heatwole,Engineering,1349,Virginia Tech,Blacksburg,VA,3.5,2.5,6,-1
+1309070,VGVhY2hlci0xMzA5MDcw,Bevlee,Watford,Engineering,1349,Virginia Tech,Blacksburg,VA,1.5,5,1,-1
+1501420,VGVhY2hlci0xNTAxNDIw,Deborah,Young-Corbett,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,5,3,1,-1
+1498469,VGVhY2hlci0xNDk4NDY5,Srinidhi,Varadarajan,Computer Science,1349,Virginia Tech,Blacksburg,VA,1,5,1,-1
+1405208,VGVhY2hlci0xNDA1MjA4,Nicole,Rylander,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,4.3,3.3,3,-1
+324038,VGVhY2hlci0zMjQwMzg=,D T,Mook,Engineering,1349,Virginia Tech,Blacksburg,VA,3,3,4,-1
+931029,VGVhY2hlci05MzEwMjk=,John,Cundiff,Engineering,1349,Virginia Tech,Blacksburg,VA,4.3,2,2,-1
+1038957,VGVhY2hlci0xMDM4OTU3,Cornel,Sultan,Engineering,1349,Virginia Tech,Blacksburg,VA,4.5,3.7,3,-1
+1178504,VGVhY2hlci0xMTc4NTA0,K. B.,Rojiani,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,4.8,2,2,-1
+48967,VGVhY2hlci00ODk2Nw==,Patrick,Devens,Engineering,1349,Virginia Tech,Blacksburg,VA,3.1,3.1,7,-1
+476690,VGVhY2hlci00NzY2OTA=,Scott,Gallimore,Engineering,1349,Virginia Tech,Blacksburg,VA,4.6,2.5,4,-1
+1620464,VGVhY2hlci0xNjIwNDY0,Chao,Wang,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,1.5,4,1,-1
+3052023,VGVhY2hlci0zMDUyMDIz,Subhash,Sarin,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3052024,VGVhY2hlci0zMDUyMDI0,Esra,Toy,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3057732,VGVhY2hlci0zMDU3NzMy,Adam,Philips,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2357028,VGVhY2hlci0yMzU3MDI4,Shashank,Priya,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2954943,VGVhY2hlci0yOTU0OTQz,Reihaneh,Hosseini,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2955557,VGVhY2hlci0yOTU1NTU3,Md,Sarker,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3030920,VGVhY2hlci0zMDMwOTIw,Guo-Qwan,Lu,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2451553,VGVhY2hlci0yNDUxNTUz,Joseph,Godfrey,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2559988,VGVhY2hlci0yNTU5OTg4,Erich,Hester,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2462522,VGVhY2hlci0yNDYyNTIy,Ariel,Ludwig,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2501333,VGVhY2hlci0yNTAxMzMz,nino,repipe,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2919566,VGVhY2hlci0yOTE5NTY2,Anli,Du Preez,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2409430,VGVhY2hlci0yNDA5NDMw,Xiaoyu,Zheng,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2656545,VGVhY2hlci0yNjU2NTQ1,Saied,Taheri,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2104408,VGVhY2hlci0yMTA0NDA4,Taiga,Soejima,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+1982801,VGVhY2hlci0xOTgyODAx,William,Cox,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+1357222,VGVhY2hlci0xMzU3MjIy,Edward,Fox,Computer Science,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2786133,VGVhY2hlci0yNzg2MTMz,Mohammed,Ba-Aoum,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2780287,VGVhY2hlci0yNzgwMjg3,Emad,Masroor,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2774472,VGVhY2hlci0yNzc0NDcy,Zachery,Easton,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2830841,VGVhY2hlci0yODMwODQx,Douglas,Nelson,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2831458,VGVhY2hlci0yODMxNDU4,Stephen,Martin,Chemical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+1173371,VGVhY2hlci0xMTczMzcx,Yasemin,Merzifonluoglu,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+1908826,VGVhY2hlci0xOTA4ODI2,Hari,Raamanathan,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+1915910,VGVhY2hlci0xOTE1OTEw,Elliott,Mitchell-Colgan,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2953047,VGVhY2hlci0yOTUzMDQ3,Paul,Ampadu,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3069109,VGVhY2hlci0zMDY5MTA5,thang,pham,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3020221,VGVhY2hlci0zMDIwMjIx,Kirshanthan,Sundararajah,Computer Science,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3083232,VGVhY2hlci0zMDgzMjMy,Christine,Gilbert,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3071506,VGVhY2hlci0zMDcxNTA2,Robert ,Hildebrand,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2984144,VGVhY2hlci0yOTg0MTQ0,Mark,Stremler,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2994679,VGVhY2hlci0yOTk0Njc5,Carin,Wollmann,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2994682,VGVhY2hlci0yOTk0Njgy,Eric,Jacques,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2986605,VGVhY2hlci0yOTg2NjA1,Tyler ,Milburn ,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3101686,VGVhY2hlci0zMTAxNjg2,Nino,Ripepi,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3112725,VGVhY2hlci0zMTEyNzI1,Kimiya,Jozani,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3088141,VGVhY2hlci0zMDg4MTQx,Sook,Shin,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3094359,VGVhY2hlci0zMDk0MzU5,Arina,Korneva,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2521953,VGVhY2hlci0yNTIxOTUz,Zachary,Lytle,Computer Science,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2517121,VGVhY2hlci0yNTE3MTIx,Kaiyuan,Peng,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2331109,VGVhY2hlci0yMzMxMTA5,Po-Jen,Shih,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2397450,VGVhY2hlci0yMzk3NDUw,Sogand,hasanzadeh,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2391454,VGVhY2hlci0yMzkxNDU0,Kang,Xia,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2374030,VGVhY2hlci0yMzc0MDMw,Hongliang,Xin,Chemical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+1982798,VGVhY2hlci0xOTgyNzk4,Adil,Godrej,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2798509,VGVhY2hlci0yNzk4NTA5,Zhiwu,Wang,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2827134,VGVhY2hlci0yODI3MTM0,Ruichuan,Zhang,Building Construction,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2146117,VGVhY2hlci0yMTQ2MTE3,Aaron,Goldstein,Chemical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+1439414,VGVhY2hlci0xNDM5NDE0,Chris,Cornelius,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+1917425,VGVhY2hlci0xOTE3NDI1,Vahid,Bateni,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2161125,VGVhY2hlci0yMTYxMTI1,Celal,Olgun,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2967307,VGVhY2hlci0yOTY3MzA3,Fatemah,Sarshartehrani,Computer Science,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2969250,VGVhY2hlci0yOTY5MjUw,William,Adams,Electrical & Computer Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3042310,VGVhY2hlci0zMDQyMzEw,Jixiang,Fan,Computer Science,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3029559,VGVhY2hlci0zMDI5NTU5,Donekal,Chandrashekar,Computer Science,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2906936,VGVhY2hlci0yOTA2OTM2,Juhong,Chen,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2913328,VGVhY2hlci0yOTEzMzI4,Christine,Gilbert,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3117199,VGVhY2hlci0zMTE3MTk5,David,Zikusoka,Computer Science,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3075410,VGVhY2hlci0zMDc1NDEw,Soheil,Sibdari,Computer Science,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3105176,VGVhY2hlci0zMTA1MTc2,Alan,Druschitz,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2985131,VGVhY2hlci0yOTg1MTMx,Curt,Portfield,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2763774,VGVhY2hlci0yNzYzNzc0,Benjamin,Knapp,Computer Science,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2780771,VGVhY2hlci0yNzgwNzcx,Nicholas,Johnson,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2831792,VGVhY2hlci0yODMxNzky,Michael,Garvin,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2973096,VGVhY2hlci0yOTczMDk2,Young,Cao,Computer Science,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2970858,VGVhY2hlci0yOTcwODU4,Erik,Komendera,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3052026,VGVhY2hlci0zMDUyMDI2,Huaiyang,Zhong,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2773940,VGVhY2hlci0yNzczOTQw,Thomas,Diller,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2761219,VGVhY2hlci0yNzYxMjE5,Landon,Marston,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2774473,VGVhY2hlci0yNzc0NDcz,Durelle,Scott,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2774475,VGVhY2hlci0yNzc0NDc1,Venkat,Sridhar,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2815308,VGVhY2hlci0yODE1MzA4,Celine,Hin,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2748862,VGVhY2hlci0yNzQ4ODYy,Mark,Paul,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+1540952,VGVhY2hlci0xNTQwOTUy,John,Walz,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+283334,VGVhY2hlci0yODMzMzQ=,Kelly,Stinson-Bagby,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+1005011,VGVhY2hlci0xMDA1MDEx,Yilu,Liu,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2793712,VGVhY2hlci0yNzkzNzEy,Dushan,Boroyevich,Electrical & Computer Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2226699,VGVhY2hlci0yMjI2Njk5,Mark,Howard,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2575674,VGVhY2hlci0yNTc1Njc0,Costin,Untaroiu,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2663282,VGVhY2hlci0yNjYzMjgy,Andrea,L'Afflitto,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+563878,VGVhY2hlci01NjM4Nzg=,Theo A.,Dillaha,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3091232,VGVhY2hlci0zMDkxMjMy,Joey,Newton,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3097733,VGVhY2hlci0zMDk3NzMz,Myounghoon,Jeon,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3120795,VGVhY2hlci0zMTIwNzk1,Corina,Sandu,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3107405,VGVhY2hlci0zMTA3NDA1,Alan,Druschitz,Chemical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3094480,VGVhY2hlci0zMDk0NDgw,Alazar,Izkinder,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2929460,VGVhY2hlci0yOTI5NDYw,Bhuvana,Srinivasan,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3044910,VGVhY2hlci0zMDQ0OTEw,Matt,Earnest,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2787291,VGVhY2hlci0yNzg3Mjkx,Amr,Hilal,Computer Science,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2656547,VGVhY2hlci0yNjU2NTQ3,Clinton,Dancey,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2656557,VGVhY2hlci0yNjU2NTU3,Ry,Long,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2526508,VGVhY2hlci0yNTI2NTA4,NC,tyne,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+662656,VGVhY2hlci02NjI2NTY=,William,Mason,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+1268379,VGVhY2hlci0xMjY4Mzc5,Donald,Baird,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2383777,VGVhY2hlci0yMzgzNzc3,Lei,Zuo,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+1811485,VGVhY2hlci0xODExNDg1,Padma,Rajagopalan,Chemical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2775489,VGVhY2hlci0yNzc1NDg5,Justin,Barone,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2817677,VGVhY2hlci0yODE3Njc3,Muhammad,Gulzar,Computer Science,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2882386,VGVhY2hlci0yODgyMzg2,Zachary ,Coleman,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2239271,VGVhY2hlci0yMjM5Mjcx,Kyle,Louk,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2122486,VGVhY2hlci0yMTIyNDg2,Divya,Srinivasan,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2471737,VGVhY2hlci0yNDcxNzM3,Francisco,Servant,Computer Science,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2669049,VGVhY2hlci0yNjY5MDQ5,Stefano,Brizzolara,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2619811,VGVhY2hlci0yNjE5ODEx,Lingjia,Liu,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3110148,VGVhY2hlci0zMTEwMTQ4,Reza,Jafari,Computer Science,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3118871,VGVhY2hlci0zMTE4ODcx,Noel,Naughton,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3101631,VGVhY2hlci0zMTAxNjMx,Isaac,Pressgrove,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3081530,VGVhY2hlci0zMDgxNTMw,Sourav,Saha,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3081668,VGVhY2hlci0zMDgxNjY4,Xi,Chen,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2931717,VGVhY2hlci0yOTMxNzE3,Ioannis,Koutromanos,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3082979,VGVhY2hlci0zMDgyOTc5,Arina,Korneva,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2993994,VGVhY2hlci0yOTkzOTk0,Mark,Pauk,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2855888,VGVhY2hlci0yODU1ODg4,Qin,Zhu,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2774469,VGVhY2hlci0yNzc0NDY5,Tess,Thompson,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2761056,VGVhY2hlci0yNzYxMDU2,Kendal,Giles,Electrical & Computer Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2816420,VGVhY2hlci0yODE2NDIw,Colin,Adams,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2798943,VGVhY2hlci0yNzk4OTQz,Daniel,Gallagher,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2752019,VGVhY2hlci0yNzUyMDE5,Frederick,Paige,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2608118,VGVhY2hlci0yNjA4MTE4,Mai,Dahshan,Computer Science,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2673161,VGVhY2hlci0yNjczMTYx,Hoda,Eldardiry,Computer Science,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2277402,VGVhY2hlci0yMjc3NDAy,Sreenivasulu,Gollapudi,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2509987,VGVhY2hlci0yNTA5OTg3,Joseph,Schetz,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2723745,VGVhY2hlci0yNzIzNzQ1,Michael,Fowler,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+1811461,VGVhY2hlci0xODExNDYx,Cully,Hession,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+1901650,VGVhY2hlci0xOTAxNjUw,Dongyoon,Lee,Computer Science,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+877893,VGVhY2hlci04Nzc4OTM=,Joel,Beach,Mining Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3101182,VGVhY2hlci0zMTAxMTgy,Abhijit,Sarkar,Electrical & Computer Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3075996,VGVhY2hlci0zMDc1OTk2,Joe,Ghossein,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+3071599,VGVhY2hlci0zMDcxNTk5,Rafael,Patrick,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2933492,VGVhY2hlci0yOTMzNDky,Ahmad,Khan,Computer Science,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2942943,VGVhY2hlci0yOTQyOTQz,Changmin,Son,Mechanical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2932047,VGVhY2hlci0yOTMyMDQ3,Jeffrey,Parks,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2982540,VGVhY2hlci0yOTgyNTQw,Wei-Jer (Peter),Han,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2701481,VGVhY2hlci0yNzAxNDgx,Sherif,Abdelaziz,Civil Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2105040,VGVhY2hlci0yMTA1MDQw,Dhruv,Batra,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+1214929,VGVhY2hlci0xMjE0OTI5,Christian,Wernz,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2625482,VGVhY2hlci0yNjI1NDgy,Mark,Devito,Electrical Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+1378922,VGVhY2hlci0xMzc4OTIy,Jessica,Thangjitham,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2178420,VGVhY2hlci0yMTc4NDIw,Melissa,Kenny,Engineering,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
+2266469,VGVhY2hlci0yMjY2NDY5,Mayuresh,Patil,Aerospace Studies,1349,Virginia Tech,Blacksburg,VA,0,0,0,-1
