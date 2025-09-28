@@ -1,0 +1,360 @@
+/* ===========================
+   S Y L L A B A I  –  styles.css
+   =========================== */
+
+/* THEME TOKENS (dark is default) */
+/* 1) Stop the page itself from scrolling */
+html, body {
+  height: 100%;
+  overflow: hidden;              /* no outside scroll */
+  overscroll-behavior: none;     /* prevents scroll chaining/bounce */
+  background-color: var(--bg2);  /* avoids white flash on overscroll (iOS) */
+}
+
+/* 2) The chat list is the only thing that scrolls */
+.chat .messages{
+  overflow: auto;                /* scroll inside here only */
+  -webkit-overflow-scrolling: touch;  /* smooth iOS scroll */
+  overscroll-behavior: contain;  /* don't bubble to page */
+}
+
+/* (Optional) Prevent horizontal jiggle on small screens */
+body { max-width: 100vw; }
+
+:root{
+  
+  /* Background */
+  --bg1:#1a2230;            /* top glow */
+  --bg2:#0b0d10;            /* base */
+
+  /* Surfaces & text */
+  --panel:#13161b;
+  --panel-2:#0f1318;
+  --text:#e9edf1;
+  --muted:#9aa6b2;
+
+  /* Accents */
+  --brand:#6aa6ff;
+  --ring:rgba(106,166,255,.45);
+
+  /* Borders & shadow */
+  --border:rgba(255,255,255,.10);
+  --border-strong:rgba(255,255,255,.18);
+  --shadow:0 10px 40px rgba(0,0,0,.35);
+
+  /* Layout / motion */
+  --wordmark-nudge:-12px;
+  --dur-theme:700ms;                       /* smoother theme swap */
+  --ease-soft:cubic-bezier(0.22,1,0.36,1); /* easeOutCubic */
+}
+
+/* LIGHT THEME */
+:root[data-theme="light"]{
+  --bg1:#ffffff;
+  --bg2:#ffffff;
+
+  --panel:#ffffff;
+  --panel-2:#e9eef6;
+
+  --text:#0f1720;
+  --muted:#5b6672;
+
+  --brand:#2563eb;
+  --ring:rgba(37,99,235,.24);
+
+  --border:rgba(0,0,0,.08);
+  --border-strong:rgba(0,0,0,.14);
+  --shadow:0 8px 28px rgba(0,0,0,.08);
+}
+
+/* Base */
+*{ box-sizing:border-box; }
+html,body{ height:100%; }
+body{
+  margin:0;
+  color:var(--text);
+  background: radial-gradient(1100px 700px at 70% -10%, var(--bg1) 0%, var(--bg2) 60%) fixed;
+  font: 400 16px/1.5 system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  transition:
+    background var(--dur-theme) var(--ease-soft),
+    color      var(--dur-theme) var(--ease-soft);
+}
+
+/* Theme toggle (fixed top-right) */
+.theme-toggle{
+  position: fixed; top: 16px; right: 16px; z-index: 10;
+  display:grid; place-items:center;
+  width:42px; height:42px;
+  border-radius:9999px;
+  border:1px solid var(--border);
+  background: var(--panel-2);
+  color: var(--text);
+  cursor:pointer;
+  transition:
+    border-color var(--dur-theme) var(--ease-soft),
+    background   var(--dur-theme) var(--ease-soft),
+    color        var(--dur-theme) var(--ease-soft),
+    transform    120ms ease;
+}
+.theme-toggle:hover{ border-color: var(--border-strong); }
+.theme-toggle:active{ transform: scale(.97); }
+.icon{ width:20px; height:20px; fill: currentColor; }
+:root[data-theme="light"] .theme-toggle .sun{ display:block; }
+:root[data-theme="light"] .theme-toggle .moon{ display:none; }
+:root:not([data-theme="light"]) .theme-toggle .sun{ display:none; }
+:root:not([data-theme="light"]) .theme-toggle .moon{ display:block; }
+
+/* Layout container */
+.wrap{
+  min-height:100svh;
+  min-height:100vh;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;   /* centered before query */
+  gap:10px;
+  padding:24px;
+  margin-top:-45px;         /* nudge entire block upward */
+  transition:
+    padding var(--dur-theme) var(--ease-soft),
+    margin  var(--dur-theme) var(--ease-soft);
+}
+
+/* Wordmark */
+.wordmark{
+  margin: 0 0 8px 0;
+  text-align:center;
+  font-family:"Poppins", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  font-weight:600;
+  font-size: clamp(28px, 6vw, 56px);
+  letter-spacing:.3px;
+  line-height:1.1;
+  color: var(--text);
+  text-shadow: 0 2px 6px rgba(0,0,0,.12);
+  user-select: none;
+  transform: translateY(var(--wordmark-nudge));
+  will-change: opacity, transform;
+  transition:
+    color       var(--dur-theme) var(--ease-soft),
+    text-shadow var(--dur-theme) var(--ease-soft),
+    opacity     380ms var(--ease-soft),
+    transform   380ms var(--ease-soft);
+}
+
+/* Tagline */
+.tagline{
+  margin: -2px 0 8px;
+  text-align: center;
+  font-family: "Poppins", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  font-weight: 500;
+  font-size: clamp(14px, 2.2vw, 18px);
+  letter-spacing: .2px;
+  color: var(--muted);
+  user-select: none;
+  will-change: opacity, transform;
+  transition:
+    color     var(--dur-theme) var(--ease-soft),
+    opacity   380ms var(--ease-soft),
+    transform 380ms var(--ease-soft);
+}
+
+/* “ai” gradient in wordmark */
+:root[data-theme="light"] .wordmark .ai{
+  display:inline-block;
+  background-image: linear-gradient(
+    90deg,
+    #C7460C 0%,
+    #E87722 35%,
+    #B23C2A 60%,
+    #9B1C31 80%,
+    #861F41 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+:root:not([data-theme="light"]) .wordmark .ai{
+  display:inline-block;
+  background-image: linear-gradient(90deg, #4b5563 0%, #9ca3af 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+  text-shadow: none;
+}
+
+/* Search bar (large until submit) */
+.searchbar{
+  width:min(950px,92vw);
+  display:grid; grid-template-columns:1fr auto; align-items:center; gap:8px;
+  padding:12px 12px 12px 18px;
+  border:1px solid var(--border);
+  border-radius:9999px;
+  box-shadow: var(--shadow);
+  transform: translateY(0);
+  transition:
+    transform    420ms var(--ease-soft),
+    width        var(--dur-theme) var(--ease-soft),
+    padding      var(--dur-theme) var(--ease-soft),
+    background   var(--dur-theme) var(--ease-soft),
+    border-color var(--dur-theme) var(--ease-soft),
+    box-shadow   var(--dur-theme) var(--ease-soft);
+}
+.searchbar:focus-within{
+  border-color: var(--brand);
+  box-shadow: 0 0 0 6px var(--ring), var(--shadow);
+}
+.searchbar input{
+  height:56px;
+  width:100%;
+  padding:0 10px;
+  border:0; outline:none;
+  color:var(--text);
+  background:transparent;
+  font-size: clamp(16px, 2.4vw, 18px);
+  transition: color var(--dur-theme) var(--ease-soft);
+}
+.searchbar input::placeholder{ color: var(--muted); }
+.searchbar .send{
+  height:46px; width:46px;
+  border:1px solid var(--border-strong);
+  border-radius:9999px;
+  background: var(--panel-2);
+  color: var(--text);
+  display:grid; place-items:center; cursor:pointer;
+  transition:
+    background   var(--dur-theme) var(--ease-soft),
+    border-color var(--dur-theme) var(--ease-soft),
+    color        var(--dur-theme) var(--ease-soft),
+    transform    120ms ease,
+    filter       200ms ease;
+}
+.searchbar .send:hover{ filter: brightness(1.06); }
+.searchbar .send:active{ transform: scale(.98); }
+.searchbar .send svg{ width:22px; height:22px; fill: currentColor; }
+
+/* Chat panel (animated open; no display:none so transitions can run) */
+.chat{
+  width: min(950px, 92vw);
+    border: none !important;         /* remove the line */
+    background: transparent !important; /* no panel background */
+    box-shadow: none !important;     /* no drop shadow */
+    border-radius: 0;                /* optional: remove rounding */
+    overflow: visible;               /* optional: stop clipping */
+
+  transition:
+    max-height 460ms var(--ease-soft),
+    opacity    360ms var(--ease-soft),
+    transform  460ms var(--ease-soft),
+    border-color var(--dur-theme) var(--ease-soft),
+    background var(--dur-theme) var(--ease-soft);
+}
+.messages{
+  padding: 14px 16px 16px;
+  overflow: auto;
+  max-height: inherit;
+}
+#chat .messages { display: flex; flex-direction: column; }
+
+/* Bubbles */
+.msg{
+  display: inline-block;
+  padding: 10px 12px;
+  border-radius: 14px;
+  margin: 16px 0;
+  line-height: 1.4;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  max-width: 100%;
+  
+}
+.msg.user{
+  align-self: flex-end;
+  background: var(--panel-2);
+
+}
+.msg.bot{
+  background: none;
+}
+
+/* Submit (query) state */
+body.query-mode .wrap{
+  justify-content: flex-start;
+  padding-top: 0vh;
+  padding-bottom: 0vh;
+  gap: 10px;
+}
+
+/* Fade/slide wordmark + tagline up */
+body.query-mode .wordmark,
+body.query-mode .tagline{
+  opacity: 0;
+  transform: translateY(-28px);
+}
+
+/* Shrink + drop the search bar a bit */
+body.query-mode .searchbar{
+  width:min(700px,80vw);
+  padding:10px 12px 10px 14px;
+  gap:6px;
+  transform: translateY(12px);
+}
+body.query-mode .searchbar input{
+  height:46px;
+  font-size: clamp(15px, 2vw, 17px);
+}
+body.query-mode .searchbar .send{ width:40px; height:40px; }
+body.query-mode .searchbar .send svg{ width:18px; height:18px; }
+
+/* Expand + fade/slide the chat down */
+body.query-mode .chat{
+  max-height: 72vh;
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+  margin-bottom: 20px;
+  border-color: var(--border);
+}
+
+/* Accessibility helper */
+.sr-only{
+  position:absolute !important;
+  width:1px; height:1px;
+  padding:0; margin:-1px;
+  overflow:hidden; clip:rect(0 0 0 0);
+  white-space:nowrap; border:0;
+}
+
+/* Typing caret on bot while streaming */
+.msg.bot.typing::after{
+  content: "▌";
+  margin-left: 2px;
+  opacity: .8;
+  animation: blink 1s steps(1,end) infinite;
+}
+@keyframes blink { 50% { opacity: 0; } }
+
+/* Small screens */
+@media (max-width:480px){
+  .theme-toggle{ top:12px; right:12px; }
+  .wordmark{ font-size: clamp(24px, 8vw, 44px); }
+}
+
+
+:root:not([data-theme="light"]) .msg.user{
+  background: #1c2633;         /* lighter than #0f1318 */
+  border-color: rgba(255,255,255,.12); /* optional, softer border */
+}
+
+/* Hide scrollbar in the chat messages pane (still scrolls) */
+.chat .messages{
+  /* already overflow:auto; keep it */
+  -ms-overflow-style: none;   /* IE 10+ / old Edge */
+  scrollbar-width: none;      /* Firefox */
+}
+
+.chat .messages::-webkit-scrollbar{
+  width: 0;
+  height: 0;                  /* Chrome/Safari/Edge */
+}

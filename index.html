@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Hokiefessor</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <!-- theme toggle -->
+  <button class="theme-toggle" type="button" role="switch"
+          aria-label="Toggle light mode" aria-pressed="true" title="Toggle light mode">
+    <svg class="icon sun" viewBox="0 0 24 24" aria-hidden="true"><path d="M6.76 4.84l-1.8-1.79-1.41 1.41 1.79 1.8 1.42-1.42zm10.48 0l1.8-1.79 1.41 1.41-1.79 1.8-1.42-1.42zM12 4V1h-0v3zm0 19v-3h0v3zM4 12H1v0h3zm19 0h-3v0h3zM6.76 19.16l-1.42 1.42-1.79-1.8 1.41-1.41 1.8 1.79zm12.69-1.79l1.41 1.41-1.79 1.8-1.42-1.42 1.8-1.79zM12 7a5 5 0 100 10 5 5 0 000-10z"/></svg>
+    <svg class="icon moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M21.75 14.5A9.25 9.25 0 0110.03 2.27 8 8 0 1021.75 14.5z"/></svg>
+  </button>
+
+  <main class="wrap">
+    <h1 class="wordmark">Hokie<span class="ai">fessor</span></h1>
+    <p class="tagline">Pick smarter. Study happier.</p>
+
+    <section id="chat" class="chat">
+      <div id="messages" class="messages"></div>
+    </section>
+
+    <form class="searchbar" id="searchForm" role="search" aria-label="Ask about courses" action="#" method="get">
+      <label for="q" class="sr-only">Ask anything</label>
+      <input id="q" name="q" type="search"
+             placeholder="Ask about classes, instructors, pass rates…"
+             autocomplete="off" spellcheck="true" autofocus required />
+      <button class="send" type="submit" aria-label="Send">
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M3.4 20.6l17-7.3c1.3-.6 1.3-2.5 0-3.1l-17-7.3c-1-.4-2 .5-1.8 1.5l1.6 6.7c.1.6.6 1 1.2 1.1l8.4.8-8.4.8c-.6.1-1.1.5-1.2 1.1l-1.6 6.7c-.2 1 .8 1.9 1.8 1.5z"/>
+        </svg>
+      </button>
+    </form>
+  </main>
+
+  <!-- theme handling -->
+  <script>
+  (() => {
+    const KEY = "theme";
+    const root = document.documentElement;
+    const saved = localStorage.getItem(KEY);
+    const system = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    root.setAttribute("data-theme", initial);
+
+    window.addEventListener("DOMContentLoaded", () => {
+      const btn = document.querySelector(".theme-toggle");
+      if (!btn) return;
+
+      const sync = () => {
+        const isLight = root.getAttribute("data-theme") === "light";
+        btn.setAttribute("aria-pressed", String(isLight));
+        btn.title = isLight ? "Switch to dark mode" : "Switch to light mode";
+      };
+
+      sync();
+      btn.addEventListener("click", () => {
+        const next = root.getAttribute("data-theme") === "light" ? "dark" : "light";
+        root.setAttribute("data-theme", next);
+        localStorage.setItem(KEY, next);
+        sync();
+      });
+    });
+  })();
+  </script>
+  <script defer src="./app.js"></script>
+
+</body>
+</html>
